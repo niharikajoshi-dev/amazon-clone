@@ -13,8 +13,4 @@ This is a responsive Amazon homepage clone built using HTML and CSS.
 - HTML
 - CSS
 
-## 📸 Screenshots
-(Add your project screenshot here)
 
-## 🔗 Live Demo
-(Add link if hosted)
